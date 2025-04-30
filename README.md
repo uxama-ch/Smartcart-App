@@ -55,5 +55,4 @@ You can also **save** your current session or **reset** everything.
 ![Settings Page](https://github.com/user-attachments/assets/83bdf48b-1f45-4522-b831-f7e2907c039c)
 
 ---
-
-Let me know if you’d like help adding badges, installation steps, or a live demo link.
+### More Features to Come with the intigration of Ai and voice command and Gps tracking to automatically set tax rate according to User's Location.
